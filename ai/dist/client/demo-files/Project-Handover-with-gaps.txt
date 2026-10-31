@@ -1,0 +1,25 @@
+FICTIONAL DEMO EVIDENCE ONLY
+Project: CLL-DEMO-001 Infrastructure Refresh
+Document: Project Handover Notes v1
+
+Scope
+Deploy two VMware hosts and one vCenter instance in the customer environment.
+
+Deliverables
+- Configure the two hosts.
+- Deploy vCenter.
+- Prepare design and test records.
+
+Stakeholders
+- Project manager: Demo PM
+- Customer contact: Demo Customer
+- Technical lead: NEEDS INPUT
+- Day 2 support owner: NEEDS INPUT
+
+Open items and risks
+- Final IP addresses are still pending from the customer.
+- Maintenance window has not been confirmed.
+- No owner or target date is recorded for either item.
+
+Handover acknowledgement
+The project handover has not yet been acknowledged by the delivery engineer or project manager.
